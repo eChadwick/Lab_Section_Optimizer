@@ -7,24 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3357C8E0203E6EC1008EEFF9 /* input1.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 33CC867520328DEF00014016 /* input1.txt */; };
 		33CC865A2030CA1100014016 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33CC86592030CA1100014016 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		33CC86542030CA1000014016 /* CopyFiles */ = {
+		3357C8DE203E6EBA008EEFF9 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
+			dstPath = "";
+			dstSubfolderSpec = 16;
+			files = (
+				3357C8E0203E6EC1008EEFF9 /* input1.txt in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		33CC86542030CA1000014016 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstPath = usr/share/man/man1;
+			dstSubfolderSpec = 16;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessing = 1;
+			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3357C8E1203E6F9F008EEFF9 /* input2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = input2.txt; path = ../input2.txt; sourceTree = "<group>"; };
+		3357C8E3203F1785008EEFF9 /* output2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = output2.txt; path = ../output2.txt; sourceTree = "<group>"; };
+		3357C8E4203FC0E1008EEFF9 /* output1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = output1.txt; path = ../output1.txt; sourceTree = "<group>"; };
 		33CC86562030CA1100014016 /* Simulated Annealing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Simulated Annealing"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33CC86592030CA1100014016 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		33CC86672032332700014016 /* section.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = section.h; sourceTree = "<group>"; };
+		33CC86682032727800014016 /* state.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = state.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.cpp; };
+		33CC867520328DEF00014016 /* input1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = input1.txt; path = ../input1.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +74,13 @@
 		33CC86582030CA1100014016 /* Simulated Annealing */ = {
 			isa = PBXGroup;
 			children = (
+				3357C8E3203F1785008EEFF9 /* output2.txt */,
+				3357C8E4203FC0E1008EEFF9 /* output1.txt */,
+				3357C8E1203E6F9F008EEFF9 /* input2.txt */,
 				33CC86592030CA1100014016 /* main.cpp */,
+				33CC867520328DEF00014016 /* input1.txt */,
+				33CC86672032332700014016 /* section.h */,
+				33CC86682032727800014016 /* state.h */,
 			);
 			path = "Simulated Annealing";
 			sourceTree = "<group>";
@@ -72,6 +95,7 @@
 				33CC86522030CA1000014016 /* Sources */,
 				33CC86532030CA1000014016 /* Frameworks */,
 				33CC86542030CA1000014016 /* CopyFiles */,
+				3357C8DE203E6EBA008EEFF9 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -246,6 +270,7 @@
 				33CC865F2030CA1100014016 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

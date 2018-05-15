@@ -1,0 +1,115 @@
+Section A -- Score: 175
+
+1  Preferences: C A E B D 
+2  Preferences: A E C D B 
+3  Preferences: E A C B D 
+4  Preferences: E A C B D 
+5  Preferences: A C E B D 
+6  Preferences: E C B X X 
+7  Preferences: C B E A D 
+8  Preferences: E A C D B 
+9  Preferences: C E A B D 
+10  Preferences: E A B C D 
+11  Preferences: E C D A B 
+12  Preferences: D C A E B 
+13  Preferences: E A D B C 
+14  Preferences: E A D C B 
+15  Preferences: C E A D B 
+16  Preferences: E A B D C 
+17  Preferences: E B C A D 
+18  Preferences: A B E C D 
+19  Preferences: E C B D A 
+20  Preferences: E A C D B 
+
+Section B -- Score: 197
+
+21  Preferences: C A E B D 
+22  Preferences: A E C B D 
+23  Preferences: E A B X X 
+24  Preferences: A B D E C 
+25  Preferences: E C A B D 
+26  Preferences: E C A B D 
+27  Preferences: C E D B A 
+28  Preferences: E A B C D 
+29  Preferences: A C E B D 
+30  Preferences: A E B C D 
+31  Preferences: E A B D C 
+32  Preferences: E B A C D 
+33  Preferences: E A B C D 
+34  Preferences: A B E D C 
+35  Preferences: E C B A D 
+36  Preferences: A B C E D 
+37  Preferences: E B C A D 
+38  Preferences: E A B C X 
+39  Preferences: E C B A D 
+40  Preferences: E A B D C 
+
+Section C -- Score: 121
+
+41  Preferences: C E B D A 
+42  Preferences: B C E A D 
+43  Preferences: A C E B D 
+44  Preferences: E C A B D 
+45  Preferences: E C B A D 
+46  Preferences: E C A B D 
+47  Preferences: A C E D B 
+48  Preferences: C E A D B 
+49  Preferences: E A C B D 
+50  Preferences: A B E C D 
+51  Preferences: C E A B D 
+52  Preferences: E C B A D 
+53  Preferences: C E A D B 
+54  Preferences: D E B C A 
+55  Preferences: E A C B D 
+56  Preferences: C E A B D 
+57  Preferences: B A E C D 
+58  Preferences: E A C D B 
+59  Preferences: A C E B D 
+60  Preferences: A E C B D 
+
+Section D -- Score: 400
+
+61  Preferences: E A C B D 
+62  Preferences: E C A B D 
+63  Preferences: A C E D B 
+64  Preferences: C D E A B 
+65  Preferences: E A C D B 
+66  Preferences: A E D C B 
+67  Preferences: C A E B D 
+68  Preferences: E A B C X 
+69  Preferences: A E C D B 
+70  Preferences: A E C B D 
+71  Preferences: E A C B D 
+72  Preferences: E A C B D 
+73  Preferences: E A C B D 
+74  Preferences: A C B E X 
+75  Preferences: C D E A B 
+76  Preferences: E D A C B 
+77  Preferences: C E A B D 
+78  Preferences: E C B A D 
+79  Preferences: C E A B D 
+80  Preferences: E A D C B 
+
+Section E -- Score: 63
+
+81  Preferences: A E B C D 
+82  Preferences: E A C X X 
+83  Preferences: E A B C D 
+84  Preferences: E D B A C 
+85  Preferences: A B E D C 
+86  Preferences: E B A C D 
+87  Preferences: E A C B D 
+88  Preferences: E C B A D 
+89  Preferences: E C X X X 
+90  Preferences: E B A C X 
+91  Preferences: E A C B D 
+92  Preferences: E A C B D 
+93  Preferences: E A C B D 
+94  Preferences: E B A C D 
+95  Preferences: A C D B E 
+96  Preferences: E A C B D 
+97  Preferences: E A B C D 
+98  Preferences: E A D C B 
+99  Preferences: C B E X X 
+100  Preferences: E C A B D 
+
